@@ -1,6 +1,6 @@
 # 🧘‍♂️Yoga Interface
 
-<img src="./img/yoga-interface.png" alt="exemplo imagem">
+<img src="./img/yoga-interface.png" alt="exemplo imagem" width="200px">
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
